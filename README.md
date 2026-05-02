@@ -1,13 +1,36 @@
-\subsubsection*{Selected Conference Proceedings}
+# Sagar Pokharel, Ph.D.
+### Low-temperature plasma researcher | UT Austin
 
-\begin{itemize}[leftmargin=0.2in, itemsep=4pt, topsep=2pt]
+I build computational models for highly non-equilibrium plasmas—state-to-state resolved vibrational and electron kinetics, fluid models, etc. 
+Reach out if you're into data assimilation or just want to chat about Science, the AI supercycle, and plasmas.
 
-\item \small Urdaneta, G., Bak, J., \textbf{Pokharel, S.}, et al. (2024). Implementation of Laser Thomson Scattering for femtosecond laser-generated plasma channel characterization. \href{https://doi.org/10.2514/6.2024-0804}{\textit{\textcolor{ScientificBlue}{AIAA SCITECH 2024 Forum}}}.
+---
 
-\item \small Bak, J., \textbf{Pokharel S.}, Hadden, H., et al. (2024). Laser intensity shaping: hydrodynamic effects and energy coupling in dual pulse laser energy deposition. \href{https://doi.org/10.2514/6.2024-2241}{\textit{\textcolor{ScientificBlue}{AIAA SCITECH 2024 Forum}}}.
+### 🔬 Research Journey
+* **Current:** Postdoctoral Fellow @ **UT Austin**. Working on state-to-state resolved kinetics, surface kinetics, model reduction to make things actually tractable, UQ, and a bunch of other things.
+* **Ph.D.:** **Texas A&M University**. Investigated laser-induced non-equilibrium plasmas. Spent a lot of time in close collaboration with the optical diagnostics team. Shout out to **ALLEMO**.
+* **Undergrad:** **Pulchowk Campus**. Started out with research in combustion. 
 
-\item \small \textbf{Pokharel S.}, Tropina, A., \& Shneider, M. N. (2022). Three-dimensional effects in dual-pulse laser energy deposition. \href{https://doi.org/10.2514/6.2022-2260}{\textit{\textcolor{ScientificBlue}{AIAA SCITECH 2022 Forum}}}.
+### 🔭 My two cents
+I’m interested in the marriage of **mechanistic modeling** and **multi-fidelity data**. 
+* **Fast Solvers:** If the solver isn't fast enough for real-time application, we've still got work to do.
+* **Data Assimilation:** Using experimental data to actually improve predictive capabilities and bound uncertainties, rather than just treating physics like a black box.
+* **The Stack:** Spending my time with **Differentiable Programming (JAX)**, **NVIDIA-CUDA profiling**, and **Uncertainty Quantification (UQ)** to build simulations we can actually trust (and that actually run fast).
 
-\item \small Tropina, A., \textbf{Pokharel, S.}, \& Shneider, M. N. (2021). Effects of the laser intensity profile on ignition of hydrogen-air mixture. \href{https://doi.org/10.2514/6.2021-1788}{\textit{\textcolor{ScientificBlue}{AIAA SCITECH 2021 Forum}}}.
+### 📚 Enjoying
+* [Scientific Computing & SciML](https://book.sciml.ai/) — Chris Rackauckas
+* [Probabilistic ML Lecture Series](https://uni-tuebingen.de/en/180855) — Philipp Hennig
+* [Probabilistic Numerics](https://www.probabilistic-numerics.org/textbooks/) — Hennig, Osborne, & Girolami
 
-\end{itemize}
+### 🎸 Beyond research
+* **Music:** A little bit of guitar playing. If you have unused gear taking up space, I’ll take it off your hands lol.
+* **Wellness:** Still thinking about it mostly, but I definitely need to get back into running.
+* **Travel:** Weekend excursions around Austin for now. Cali is calling, maybe Virginia soon.
+* **Cinema:** Movies. Currently considering watching *Breaking Bad* for the nth time.
+
+---
+
+### 📬 Connect
+[Google Scholar](https://scholar.google.com/citations?user=KmMPCm0AAAAJ) | [Email](mailto:spokharel@utexas.edu) 
+
+---
