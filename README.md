@@ -15,7 +15,7 @@ Reach out if you're into data assimilation or just want to chat about Science, t
 I’m interested in the marriage of **mechanistic modeling** and **multi-fidelity data**. 
 * **Fast Solvers:** If the solver isn't fast enough for real-time application, we've still got work to do.
 * **Data Assimilation:** Using experimental data to actually improve predictive capabilities and bound uncertainties, rather than just treating physics like a black box.
-* **The Stack:** Spending my time with **Differentiable Programming (JAX)**, **NVIDIA-CUDA profiling**, and **Uncertainty Quantification (UQ)** to build simulations we can actually trust (and that actually run fast).
+* **The Stack:** Spending my time with **Differentiable Programming (JAX)**, **Benchmarking (CPU vs. GPU)** for scientific computing, and **Uncertainty Quantification (UQ)** to build reliable predictive tools.
 
 ### 📚 Enjoying
 * [Scientific Computing & SciML](https://book.sciml.ai/) — Chris Rackauckas
