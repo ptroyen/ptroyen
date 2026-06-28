@@ -24,7 +24,7 @@ I’m interested in the marriage of **mechanistic modeling** and **multi-fidelit
 
 ### 🎸 Beyond research
 * **Music:** A little bit of guitar playing. If you have unused gear taking up space, I’ll take it off your hands lol.
-* **Wellness:** Still thinking about it mostly, but I definitely need to get back into running.
+* **Wellness:** Still thinking about it mostly, but I definitely need to get back into it ...
 * **Travel:** Weekend excursions around Austin for now. ...
 * **Cinema:** Movies. Maybe *Breaking Bad* for the nth time.
 
